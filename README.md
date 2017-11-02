@@ -1,6 +1,6 @@
 <h2>aws-sqs</h2>
-It is some set of classes to interact with AWS SQS in different environments.
 
+It is some set of classes to interact with AWS SQS in different environments.
 
 
 **SQSClient**
