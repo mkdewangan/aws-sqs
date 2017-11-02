@@ -1,7 +1,8 @@
-#<h2>aws-sqs</h2>
+<h2>aws-sqs</h2>
 It is some set of classes to interact with AWS SQS in different environments.
 
 **SQSClient**
+
 This program can run on our local laptop and send message to amazon-sqs queue. Below are the steps to make it run. This has been tested in personal aws account.
 
  1. We need to create a queue i.e mkd-test-queue in amazon-sqs.
@@ -10,6 +11,7 @@ This program can run on our local laptop and send message to amazon-sqs queue. B
  4. It will send message to aws sqs queue defined in (1).
  
 **EC2SQSClient**
+
 This program is developed to run in EC2 instance and send message to aws-sqs queue.
  1. We need to create EC2 instance 
 	  - with appropriate role which has permission to access to sqs.
