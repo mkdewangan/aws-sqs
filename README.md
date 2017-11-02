@@ -5,7 +5,7 @@ It is some set of classes to interact with AWS SQS in different environments.
 
 **SQSClient**
 
-This program can run on our local laptop and send message to amazon-sqs queue. Below are the steps to make it run. This has been tested in personal aws account.
+This program can run on our local laptop and send message to amazon-sqs queue. This has been tested in personal aws account. Below are the steps to make it run. 
 
  1. We need to create a queue i.e mkd-test-queue in amazon-sqs.
  2. We need to get aws-access-key and aws-secret-key.
