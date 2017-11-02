@@ -1,4 +1,4 @@
-<h2>aws-sqs</h2>
+#aws-sqs
 
 It is some set of classes to interact with AWS SQS in different environments.
 
